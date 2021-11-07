@@ -78,10 +78,7 @@ To get Google's attention, we need to pass this simple checklist:
 ## Latest Items
 
 - [React Templates](https://admin-dashboards.com/react-templates-open-source-and-free-2xv/) - Open-Source and Free
-- [Datta Able](https://admin-dashboards.com/datta-able-django-admin-dashboard/) - Free Django Dashboard provided by [AppSeed](https://appseed.us/)
 - [Admin Dashboard - Svelte Notus](https://admin-dashboards.com/admin-dashboard-svelte-notus-free/)
-- [Free Flask Dashboard - MaterialPro Bootstrap Lite](https://admin-dashboards.com/free-flask-dashboard-material-lite-wpx/)
-- [Volt - Bootstrap 5 template available in Jinja, Django, Flask](https://admin-dashboards.com/volt-bootstrap-5-template-flask-jinja-django/)
 
 <br />
 
