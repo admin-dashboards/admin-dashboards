@@ -5,7 +5,7 @@
 
 <br />
 
-> Hacked by [Sm0ke](https://twitter.com/Sm0keDev) .. <('_')> ..
+[![AppSeed - Black Friday Offer for 2021 ](https://user-images.githubusercontent.com/51070104/143680027-6aa964c6-a4f6-4615-a839-ad2546c7a281.jpg)](https://appseed.us/bundles/black-friday)
 
 <br />
 
