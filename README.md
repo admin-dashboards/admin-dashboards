@@ -5,10 +5,6 @@
 
 <br />
 
-[![AppSeed - Black Friday Offer for 2021 ](https://user-images.githubusercontent.com/51070104/143680027-6aa964c6-a4f6-4615-a839-ad2546c7a281.jpg)](https://appseed.us/bundles/black-friday)
-
-<br />
-
 ## The motivation
 
 If you are a freelancer or a small startup, and you have in your portfolio an admin dashboard product, trying to promote it and sell it, can be challenging without a serious budget. The first page in Google for the keyword “admin dashboards” is full of well-positioned companies like ColorLib, WrapBootstrap, and other companies at the same level.
