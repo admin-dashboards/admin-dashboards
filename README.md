@@ -1,7 +1,7 @@
 
-# [Admin Dashboards](https://admin-dashboards.com)
+# [Admin Dashboards](https://www.admin-dashboards.com/)
 
-**[Admin Dashboards](https://admin-dashboards.com)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang) with $0 costs.
+**[Admin Dashboards](https://www.admin-dashboards.com/)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang) with $0 costs.
 
 <br />
 
@@ -79,4 +79,4 @@ To get Google's attention, we need to pass this simple checklist:
 <br />
 
 ---
-[Admin Dashboards](https://admin-dashboards.com) - open-source project.
+[Admin Dashboards](https://www.admin-dashboards.com/) - open-source project.
